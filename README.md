@@ -1,4 +1,4 @@
-# procedural-simulation
+# Procedural Simulation
 Procedural Simulation is a work in progress Unity Application. We have the following goals
 - Minecraft like clone.
 - Complex Evolution like a predator and prey simulations with more parameters.
