@@ -5,3 +5,6 @@ Procedural Simulation is a work in progress Unity Application. We have the follo
 - Procedural Animations for the player and the creatures.
 - World Generation
 - Artificial Intelligence Applications. Neural Networks.
+
+# Inspiration and Resources
+- [Procedural FPS Player Controller](https://www.reddit.com/r/Unity3D/comments/yrcykq/heres_my_progress_on_fully_procedural_fps/)
